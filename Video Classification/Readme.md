@@ -1,1 +1,0 @@
-Video Classification model
